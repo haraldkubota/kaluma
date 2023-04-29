@@ -1,0 +1,9 @@
+{
+  "name": "kaluma",
+  "author": "Harald Kubota",
+  "version": "0.1.0",
+  "main": "./lib/main.js",
+  "types": "./lib/kaluma.d.ts",
+  "dependencies": {
+  }
+}
