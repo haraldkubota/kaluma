@@ -1,9 +1,16 @@
 {
-  "name": "kaluma",
+  "name": "@types/kaluma",
   "author": "Harald Kubota",
-  "version": "0.1.0",
-  "main": "./lib/main.js",
-  "types": "./lib/kaluma.d.ts",
+  "description": "Type declarations for Kaluma",
+  "version": "0.2.0",
+  "main": "",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haraldkubota/types-kaluma.git",
+    "directory": ""
+  },
   "dependencies": {
   }
 }
